@@ -1,4 +1,4 @@
-// Homework 2 pt 1
+// Homework 2 pt 2
 // Patience Lamb
 
 #include <iostream>
@@ -9,15 +9,24 @@ long randlcg(long g, long c, long p, long rn){
   rn = (g * rn + c) % p;
   return rn;
 }
+
+float norm(long p, long rn){
+  float norm;
+  norm = rn/p;
+  return norm;
+}
+
 int main(int argc, char const *argv[]) {
-  long g = 61;
-  long c = 1;
+  int g = 61;
+  int c = 1;
   long p = pow(2,24);
-  long seed = 101101;
+  long rn = 101101;
+  float normalized = 0;
 
   for (int i = 1; i <= 30; i++) {
-    seed = randlcg(g,c,p,seed);
-    cout << "Random number " << i <<": " << seed << endl;
+    rn = randlcg(g,c,p,rn);
+    normalized = norm(p,rn);
+    cout << "Random number " << i <<": " << normalized << endl;
   }
   return 0;
 }
