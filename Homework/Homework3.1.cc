@@ -13,10 +13,15 @@ float norm;
 float prevnorm;
 
 // Make a pair of rn and norm to call later on
-pair<long,float> randlcg(long g, long c, long p, long rn){
+float randlcg(long g, long c, long p){
   rn = (g * rn + c) % p;
   norm = (float) rn/p;
-  return make_pair(rn, norm);
+  return norm;
+}
+
+float mean(){
+  float mean = (norm-prevnorm)/2;
+  return mean;
 }
 
 int main(int argc, char const *argv[]) {
@@ -26,14 +31,16 @@ int main(int argc, char const *argv[]) {
 
   // Setting the initial seed normalized
   norm = rn/p;
+  prevnorm = rn/p;
 
   for (int i = 1; i <= 30; i++) {
     prevnorm =  norm;
-    rn = randlcg(g,c,p,rn).first;
-    norm = randlcg(g,c,p,rn).second;
+    norm = randlcg(g,c,p);
 
     cout << "Random number " << i <<": " << norm << endl;
     cout << "Previous random number " << i-1 << ": " << prevnorm << endl;
+    cout << "Working mean: " << i << ": " << mean << endl;
   }
+  cout << "Mean: " << mean << endl;
   return 0;
 }
