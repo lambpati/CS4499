@@ -12,11 +12,11 @@ private:
 
 public:
   // Constructors
-  Person(std::string first, std::string last, int arbitrary);
+  Person(std::string, std::string, int arbitrary);
   Person(); // Default constructor
   // Destructor
   ~Person();
   // Methods
   std::string getName();
   int getNumber();
-}
+};

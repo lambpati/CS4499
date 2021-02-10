@@ -11,8 +11,3 @@ Person::~Person() // Destructor
 {
   std::cout << "Destructing " << firstname << " " << lastname << std::endl;
 }
-
-int main(int argc, char const *argv[]) {
-  /* code */
-  return 0;
-}
