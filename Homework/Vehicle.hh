@@ -10,9 +10,11 @@ class Vehicle {
     std::string manufacturer;
     std::string model;
 
+    float value_date;
+
   public:
     // Constructors
-    Vehicle(int, float, float, std::string, std::string);
+    Vehicle(int, float, float, std::string, std::string, float);
     Vehicle();
 
     //Destructor
@@ -34,6 +36,10 @@ class Vehicle {
       return model;
     }
 
+    float getValue_Date(){
+      return value_date;
+    }
+
     // Setter
     void setYear(int y){
       year = y;
@@ -50,5 +56,15 @@ class Vehicle {
     void setModel(std::string mod){
       model = mod;
     }
+
+    void setValueDate(float date){
+      value_date = date;
+    }
+
+    //Methods
+    void updateValue(float current_date);
+
+    float estimateValue(float estimated_date);
+
 
 };

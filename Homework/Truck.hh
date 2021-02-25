@@ -9,7 +9,7 @@ class Truck : public Vehicle{
     int towingCapacity;
 
   public:
-    Truck(int, float, float, std::string, std::string, bool, int);
+    Truck(int, float, float, std::string, std::string, float, bool, int);
     Truck();
     ~Truck();
 

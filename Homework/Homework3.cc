@@ -58,6 +58,10 @@ int main(int argc, char const *argv[]) {
   // https://www.kbb.com/cars-for-sale/vehicledetails.xhtml?listingId=570103032&zip=83201&referrer=%2Fcars-for-sale%2Fsearchresults.xhtml%3Fzip%3D83201%26city%3DPocatello%26sortBy%3Drelevance%26location%3D%255Bobject%2BObject%255D%26vehicleStyleCodes%3DTRUCKS%26incremental%3Dall%26state%3DID%26firstRecord%3D0%26marketExtension%3Dinclude%26relevanceConfig%3Ddefault%26searchRadius%3D50%26isNewSearch%3Dfalse&numRecords=25&vehicleStyleCodes=TRUCKS&firstRecord=0&searchRadius=50&makeCode1=RAM&modelCode1=RM1500&clickType=listing
   for_each(trucks.begin(), trucks.end(), printTruck);
 
-  
+  vehicle.updateValue(2021.15);
+
+  std::cout << "Current value: " << vehicle.getValue() << '\n';
+
+
   return 0;
 }
