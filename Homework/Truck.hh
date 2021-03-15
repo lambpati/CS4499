@@ -13,10 +13,10 @@ class Truck : public Vehicle{
     Truck();
     ~Truck();
 
-    bool getAwd(){
+    bool getAwd() const{
       return awd;
     }
-    int getTowing_capacity(){
+    int getTowing_capacity() const{
       return towingCapacity;
     }
 

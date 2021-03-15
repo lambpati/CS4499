@@ -20,23 +20,23 @@ class Vehicle {
     //Destructor
     ~Vehicle();
     // Getter
-    int getYear() {
+    int getYear() const {
       return year;
     }
-    float getMileage() {
+    float getMileage() const {
       return mileage;
     }
-    float getValue() {
+    float getValue() const {
       return value;
     }
-    std::string getManufacturer(){
+    std::string getManufacturer() const {
       return manufacturer;
     }
-    std::string getModel(){
+    std::string getModel() const {
       return model;
     }
 
-    float getValue_Date(){
+    float getValue_Date() const {
       return value_date;
     }
 
@@ -64,7 +64,7 @@ class Vehicle {
     //Methods
     void updateValue(float current_date);
 
-    float estimateValue(float estimated_date);
+    float estimateValue(float estimated_date) const;
 
 
 };
