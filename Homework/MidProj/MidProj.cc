@@ -1,15 +1,18 @@
 #include "Bunny.hh"
 #include "Driver.hh"
+#include "Population.hh"
 #include <iostream>
 
 int main(int argc, char const *argv[]) {
-//  Bunny bunny;
-//  Driver driver;
-//  bunny.setName("bunny");
-//  driver.generateGender(bunny);
-//  driver.generateColor(bunny);
-//  driver.generateRMVB(bunny);
+  std::vector<Bunny> bunnies;
+  Driver driver;
+  Population population(bunnies, driver);
+  population.initialize();
+  int numberRounds = 0;
+  while (!population.getAllBunnies().empty()) {
+      numberRounds++;
+      population.start(numberRounds);
+  }
 
-  std::cout << "Bunny generated:" << bunny.getGender() << '\n';
   return 0;
 }

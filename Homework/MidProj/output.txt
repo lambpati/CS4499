@@ -1,0 +1,3424 @@
+Bunny Charles M White 0 was born!
+Bunny Joseph F Black 0 was born!
+Bunny Julius X White 0 was born!
+Bunny Philip M Black 0 was born!
+Bunny Marion M Brown 0 was born!
+Bunny Albert X Spotted 0 was born!
+Bunny Charles X White 0 was born!
+Bunny Bert X White 0 was born!
+Bunny Dan M Black 0 was born!
+Bunny Paul M Brown 0 was born!
+Round 1
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 10
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 10
+Amount of females: 1 amount of males: 5 amount of GenderX: 4
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 0
+Bunny Sidney F White 0 was born!
+Round 2
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 10
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 11
+Amount of females: 2 amount of males: 5 amount of GenderX: 4
+Amount of bunnies died: 0
+Amount of bunnies born: 1
+Amount of bunnies converted: 0
+Bunny Harry X White 0 was born!
+Bunny Alfred F Brown 0 was born!
+Bunny George M White 0 was born!
+Round 3
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 1
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 10
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 14
+Amount of females: 3 amount of males: 6 amount of GenderX: 5
+Amount of bunnies died: 0
+Amount of bunnies born: 3
+Amount of bunnies converted: 0
+Bunny Bert F White 0 was born!
+Bunny Eugene F Black 1 was born!
+Round 4
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 3
+Amount of bunnies at age 2: 1
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 10
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 16
+Amount of females: 5 amount of males: 6 amount of GenderX: 5
+Amount of bunnies died: 0
+Amount of bunnies born: 2
+Amount of bunnies converted: 1
+Bunny Homer M White 0 was born!
+Bunny Sam F White 0 was born!
+Bunny Chester F White 0 was born!
+Round 5
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 2
+Amount of bunnies at age 2: 3
+Amount of bunnies at age 3: 1
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 10
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 19
+Amount of females: 7 amount of males: 7 amount of GenderX: 5
+Amount of bunnies died: 0
+Amount of bunnies born: 3
+Amount of bunnies converted: 2
+Bunny Oscar X Black 0 was born!
+Bunny Roy M White 0 was born!
+Bunny Eugene M White 0 was born!
+Round 6
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 3
+Amount of bunnies at age 2: 2
+Amount of bunnies at age 3: 3
+Amount of bunnies at age 4: 1
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 10
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 22
+Amount of females: 7 amount of males: 9 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 3
+Amount of bunnies converted: 4
+Bunny Peter M Black 0 was born!
+Bunny Leo M Spotted 0 was born!
+Bunny James M White 0 was born!
+Bunny Edward F White 0 was born!
+Round 7
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 3
+Amount of bunnies at age 2: 3
+Amount of bunnies at age 3: 2
+Amount of bunnies at age 4: 3
+Amount of bunnies at age 5: 1
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 10
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 26
+Amount of females: 8 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 4
+Amount of bunnies converted: 8
+Bunny Martin F Spotted 0 was born!
+Bunny Edward F White 0 was born!
+Round 8
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 4
+Amount of bunnies at age 2: 3
+Amount of bunnies at age 3: 3
+Amount of bunnies at age 4: 2
+Amount of bunnies at age 5: 3
+Amount of bunnies at age 6: 1
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 10
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 2
+Amount of bunnies converted: 16
+Round 9
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 2
+Amount of bunnies at age 2: 4
+Amount of bunnies at age 3: 3
+Amount of bunnies at age 4: 3
+Amount of bunnies at age 5: 2
+Amount of bunnies at age 6: 3
+Amount of bunnies at age 7: 1
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 10
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 10
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 2
+Amount of bunnies at age 3: 4
+Amount of bunnies at age 4: 3
+Amount of bunnies at age 5: 3
+Amount of bunnies at age 6: 2
+Amount of bunnies at age 7: 3
+Amount of bunnies at age 8: 1
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 10
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 11
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 2
+Amount of bunnies at age 4: 4
+Amount of bunnies at age 5: 3
+Amount of bunnies at age 6: 3
+Amount of bunnies at age 7: 2
+Amount of bunnies at age 8: 3
+Amount of bunnies at age 9: 1
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 10
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 12
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 2
+Amount of bunnies at age 5: 4
+Amount of bunnies at age 6: 3
+Amount of bunnies at age 7: 3
+Amount of bunnies at age 8: 2
+Amount of bunnies at age 9: 3
+Amount of bunnies at age 10: 1
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 10
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 13
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 2
+Amount of bunnies at age 6: 4
+Amount of bunnies at age 7: 3
+Amount of bunnies at age 8: 3
+Amount of bunnies at age 9: 2
+Amount of bunnies at age 10: 3
+Amount of bunnies at age 11: 1
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 10
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 14
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 2
+Amount of bunnies at age 7: 4
+Amount of bunnies at age 8: 3
+Amount of bunnies at age 9: 3
+Amount of bunnies at age 10: 2
+Amount of bunnies at age 11: 3
+Amount of bunnies at age 12: 1
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 10
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 15
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 2
+Amount of bunnies at age 8: 4
+Amount of bunnies at age 9: 3
+Amount of bunnies at age 10: 3
+Amount of bunnies at age 11: 2
+Amount of bunnies at age 12: 3
+Amount of bunnies at age 13: 1
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 10
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 16
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 2
+Amount of bunnies at age 9: 4
+Amount of bunnies at age 10: 3
+Amount of bunnies at age 11: 3
+Amount of bunnies at age 12: 2
+Amount of bunnies at age 13: 3
+Amount of bunnies at age 14: 1
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 10
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 17
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 2
+Amount of bunnies at age 10: 4
+Amount of bunnies at age 11: 3
+Amount of bunnies at age 12: 3
+Amount of bunnies at age 13: 2
+Amount of bunnies at age 14: 3
+Amount of bunnies at age 15: 1
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 10
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 18
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 2
+Amount of bunnies at age 11: 4
+Amount of bunnies at age 12: 3
+Amount of bunnies at age 13: 3
+Amount of bunnies at age 14: 2
+Amount of bunnies at age 15: 3
+Amount of bunnies at age 16: 1
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 10
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 19
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 2
+Amount of bunnies at age 12: 4
+Amount of bunnies at age 13: 3
+Amount of bunnies at age 14: 3
+Amount of bunnies at age 15: 2
+Amount of bunnies at age 16: 3
+Amount of bunnies at age 17: 1
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 10
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 20
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 2
+Amount of bunnies at age 13: 4
+Amount of bunnies at age 14: 3
+Amount of bunnies at age 15: 3
+Amount of bunnies at age 16: 2
+Amount of bunnies at age 17: 3
+Amount of bunnies at age 18: 1
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 10
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 21
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 2
+Amount of bunnies at age 14: 4
+Amount of bunnies at age 15: 3
+Amount of bunnies at age 16: 3
+Amount of bunnies at age 17: 2
+Amount of bunnies at age 18: 3
+Amount of bunnies at age 19: 1
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 10
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 22
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 2
+Amount of bunnies at age 15: 4
+Amount of bunnies at age 16: 3
+Amount of bunnies at age 17: 3
+Amount of bunnies at age 18: 2
+Amount of bunnies at age 19: 3
+Amount of bunnies at age 20: 1
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 10
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 23
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 2
+Amount of bunnies at age 16: 4
+Amount of bunnies at age 17: 3
+Amount of bunnies at age 18: 3
+Amount of bunnies at age 19: 2
+Amount of bunnies at age 20: 3
+Amount of bunnies at age 21: 1
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 10
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 24
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 2
+Amount of bunnies at age 17: 4
+Amount of bunnies at age 18: 3
+Amount of bunnies at age 19: 3
+Amount of bunnies at age 20: 2
+Amount of bunnies at age 21: 3
+Amount of bunnies at age 22: 1
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 10
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 25
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 2
+Amount of bunnies at age 18: 4
+Amount of bunnies at age 19: 3
+Amount of bunnies at age 20: 3
+Amount of bunnies at age 21: 2
+Amount of bunnies at age 22: 3
+Amount of bunnies at age 23: 1
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 10
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 26
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 2
+Amount of bunnies at age 19: 4
+Amount of bunnies at age 20: 3
+Amount of bunnies at age 21: 3
+Amount of bunnies at age 22: 2
+Amount of bunnies at age 23: 3
+Amount of bunnies at age 24: 1
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 10
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 27
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 2
+Amount of bunnies at age 20: 4
+Amount of bunnies at age 21: 3
+Amount of bunnies at age 22: 3
+Amount of bunnies at age 23: 2
+Amount of bunnies at age 24: 3
+Amount of bunnies at age 25: 1
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 10
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 28
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 2
+Amount of bunnies at age 21: 4
+Amount of bunnies at age 22: 3
+Amount of bunnies at age 23: 3
+Amount of bunnies at age 24: 2
+Amount of bunnies at age 25: 3
+Amount of bunnies at age 26: 1
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 10
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 29
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 2
+Amount of bunnies at age 22: 4
+Amount of bunnies at age 23: 3
+Amount of bunnies at age 24: 3
+Amount of bunnies at age 25: 2
+Amount of bunnies at age 26: 3
+Amount of bunnies at age 27: 1
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 10
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 30
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 2
+Amount of bunnies at age 23: 4
+Amount of bunnies at age 24: 3
+Amount of bunnies at age 25: 3
+Amount of bunnies at age 26: 2
+Amount of bunnies at age 27: 3
+Amount of bunnies at age 28: 1
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 10
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 31
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 2
+Amount of bunnies at age 24: 4
+Amount of bunnies at age 25: 3
+Amount of bunnies at age 26: 3
+Amount of bunnies at age 27: 2
+Amount of bunnies at age 28: 3
+Amount of bunnies at age 29: 1
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 10
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 32
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 2
+Amount of bunnies at age 25: 4
+Amount of bunnies at age 26: 3
+Amount of bunnies at age 27: 3
+Amount of bunnies at age 28: 2
+Amount of bunnies at age 29: 3
+Amount of bunnies at age 30: 1
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 10
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 33
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 2
+Amount of bunnies at age 26: 4
+Amount of bunnies at age 27: 3
+Amount of bunnies at age 28: 3
+Amount of bunnies at age 29: 2
+Amount of bunnies at age 30: 3
+Amount of bunnies at age 31: 1
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 10
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 34
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 2
+Amount of bunnies at age 27: 4
+Amount of bunnies at age 28: 3
+Amount of bunnies at age 29: 3
+Amount of bunnies at age 30: 2
+Amount of bunnies at age 31: 3
+Amount of bunnies at age 32: 1
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 10
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 35
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 2
+Amount of bunnies at age 28: 4
+Amount of bunnies at age 29: 3
+Amount of bunnies at age 30: 3
+Amount of bunnies at age 31: 2
+Amount of bunnies at age 32: 3
+Amount of bunnies at age 33: 1
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 10
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 36
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 2
+Amount of bunnies at age 29: 4
+Amount of bunnies at age 30: 3
+Amount of bunnies at age 31: 3
+Amount of bunnies at age 32: 2
+Amount of bunnies at age 33: 3
+Amount of bunnies at age 34: 1
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 10
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 37
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 2
+Amount of bunnies at age 30: 4
+Amount of bunnies at age 31: 3
+Amount of bunnies at age 32: 3
+Amount of bunnies at age 33: 2
+Amount of bunnies at age 34: 3
+Amount of bunnies at age 35: 1
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 10
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 38
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 2
+Amount of bunnies at age 31: 4
+Amount of bunnies at age 32: 3
+Amount of bunnies at age 33: 3
+Amount of bunnies at age 34: 2
+Amount of bunnies at age 35: 3
+Amount of bunnies at age 36: 1
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 10
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 39
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 2
+Amount of bunnies at age 32: 4
+Amount of bunnies at age 33: 3
+Amount of bunnies at age 34: 3
+Amount of bunnies at age 35: 2
+Amount of bunnies at age 36: 3
+Amount of bunnies at age 37: 1
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 10
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 40
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 2
+Amount of bunnies at age 33: 4
+Amount of bunnies at age 34: 3
+Amount of bunnies at age 35: 3
+Amount of bunnies at age 36: 2
+Amount of bunnies at age 37: 3
+Amount of bunnies at age 38: 1
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 10
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 41
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 2
+Amount of bunnies at age 34: 4
+Amount of bunnies at age 35: 3
+Amount of bunnies at age 36: 3
+Amount of bunnies at age 37: 2
+Amount of bunnies at age 38: 3
+Amount of bunnies at age 39: 1
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 10
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 42
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 2
+Amount of bunnies at age 35: 4
+Amount of bunnies at age 36: 3
+Amount of bunnies at age 37: 3
+Amount of bunnies at age 38: 2
+Amount of bunnies at age 39: 3
+Amount of bunnies at age 40: 1
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 10
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 43
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 2
+Amount of bunnies at age 36: 4
+Amount of bunnies at age 37: 3
+Amount of bunnies at age 38: 3
+Amount of bunnies at age 39: 2
+Amount of bunnies at age 40: 3
+Amount of bunnies at age 41: 1
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 10
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 44
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 2
+Amount of bunnies at age 37: 4
+Amount of bunnies at age 38: 3
+Amount of bunnies at age 39: 3
+Amount of bunnies at age 40: 2
+Amount of bunnies at age 41: 3
+Amount of bunnies at age 42: 1
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 10
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 45
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 2
+Amount of bunnies at age 38: 4
+Amount of bunnies at age 39: 3
+Amount of bunnies at age 40: 3
+Amount of bunnies at age 41: 2
+Amount of bunnies at age 42: 3
+Amount of bunnies at age 43: 1
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 10
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 46
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 2
+Amount of bunnies at age 39: 4
+Amount of bunnies at age 40: 3
+Amount of bunnies at age 41: 3
+Amount of bunnies at age 42: 2
+Amount of bunnies at age 43: 3
+Amount of bunnies at age 44: 1
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 10
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 47
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 2
+Amount of bunnies at age 40: 4
+Amount of bunnies at age 41: 3
+Amount of bunnies at age 42: 3
+Amount of bunnies at age 43: 2
+Amount of bunnies at age 44: 3
+Amount of bunnies at age 45: 1
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 10
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 48
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 2
+Amount of bunnies at age 41: 4
+Amount of bunnies at age 42: 3
+Amount of bunnies at age 43: 3
+Amount of bunnies at age 44: 2
+Amount of bunnies at age 45: 3
+Amount of bunnies at age 46: 1
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 10
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 49
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 2
+Amount of bunnies at age 42: 4
+Amount of bunnies at age 43: 3
+Amount of bunnies at age 44: 3
+Amount of bunnies at age 45: 2
+Amount of bunnies at age 46: 3
+Amount of bunnies at age 47: 1
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 10
+Amount of bunnies at age 50: 0
+Amount of bunnies: 28
+Amount of females: 10 amount of males: 12 amount of GenderX: 6
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Bunny Charles died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Marion died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Marion died at age 50
+Bunny Albert died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Marion died at age 50
+Bunny Albert died at age 50
+Bunny Charles died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Marion died at age 50
+Bunny Albert died at age 50
+Bunny Charles died at age 50
+Bunny Bert died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Marion died at age 50
+Bunny Albert died at age 50
+Bunny Charles died at age 50
+Bunny Bert died at age 50
+Bunny Dan died at age 50
+Bunny Charles died at age 50
+Bunny Joseph died at age 50
+Bunny Julius died at age 50
+Bunny Philip died at age 50
+Bunny Marion died at age 50
+Bunny Albert died at age 50
+Bunny Charles died at age 50
+Bunny Bert died at age 50
+Bunny Dan died at age 50
+Bunny Paul died at age 50
+Round 50
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 2
+Amount of bunnies at age 43: 4
+Amount of bunnies at age 44: 3
+Amount of bunnies at age 45: 3
+Amount of bunnies at age 46: 2
+Amount of bunnies at age 47: 3
+Amount of bunnies at age 48: 1
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 10
+Amount of bunnies: 18
+Amount of females: 9 amount of males: 7 amount of GenderX: 2
+Amount of bunnies died: 10
+Amount of bunnies born: 0
+Amount of bunnies converted: 28
+Round 51
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 2
+Amount of bunnies at age 44: 4
+Amount of bunnies at age 45: 3
+Amount of bunnies at age 46: 3
+Amount of bunnies at age 47: 2
+Amount of bunnies at age 48: 3
+Amount of bunnies at age 49: 1
+Amount of bunnies at age 50: 0
+Amount of bunnies: 18
+Amount of females: 9 amount of males: 7 amount of GenderX: 2
+Amount of bunnies died: 0
+Amount of bunnies born: 0
+Amount of bunnies converted: 18
+Bunny Sidney died at age 50
+Round 52
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 2
+Amount of bunnies at age 45: 4
+Amount of bunnies at age 46: 3
+Amount of bunnies at age 47: 3
+Amount of bunnies at age 48: 2
+Amount of bunnies at age 49: 3
+Amount of bunnies at age 50: 1
+Amount of bunnies: 17
+Amount of females: 8 amount of males: 7 amount of GenderX: 2
+Amount of bunnies died: 1
+Amount of bunnies born: 0
+Amount of bunnies converted: 18
+Bunny Harry died at age 50
+Bunny Harry died at age 50
+Bunny Alfred died at age 50
+Bunny Harry died at age 50
+Bunny Alfred died at age 50
+Bunny George died at age 50
+Round 53
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 2
+Amount of bunnies at age 46: 4
+Amount of bunnies at age 47: 3
+Amount of bunnies at age 48: 3
+Amount of bunnies at age 49: 2
+Amount of bunnies at age 50: 3
+Amount of bunnies: 14
+Amount of females: 7 amount of males: 6 amount of GenderX: 1
+Amount of bunnies died: 3
+Amount of bunnies born: 0
+Amount of bunnies converted: 17
+Bunny Bert died at age 50
+Bunny Bert died at age 50
+Bunny Eugene died at age 50
+Round 54
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 2
+Amount of bunnies at age 47: 4
+Amount of bunnies at age 48: 3
+Amount of bunnies at age 49: 3
+Amount of bunnies at age 50: 2
+Amount of bunnies: 12
+Amount of females: 5 amount of males: 6 amount of GenderX: 1
+Amount of bunnies died: 2
+Amount of bunnies born: 0
+Amount of bunnies converted: 14
+Bunny Homer died at age 50
+Bunny Homer died at age 50
+Bunny Sam died at age 50
+Bunny Homer died at age 50
+Bunny Sam died at age 50
+Bunny Chester died at age 50
+Round 55
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 2
+Amount of bunnies at age 48: 4
+Amount of bunnies at age 49: 3
+Amount of bunnies at age 50: 3
+Amount of bunnies: 9
+Amount of females: 3 amount of males: 5 amount of GenderX: 1
+Amount of bunnies died: 3
+Amount of bunnies born: 0
+Amount of bunnies converted: 12
+Bunny Oscar died at age 50
+Bunny Oscar died at age 50
+Bunny Roy died at age 50
+Bunny Oscar died at age 50
+Bunny Roy died at age 50
+Bunny Eugene died at age 50
+Round 56
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 2
+Amount of bunnies at age 49: 4
+Amount of bunnies at age 50: 3
+Amount of bunnies: 6
+Amount of females: 3 amount of males: 3 amount of GenderX: 0
+Amount of bunnies died: 3
+Amount of bunnies born: 0
+Amount of bunnies converted: 9
+Bunny Peter died at age 50
+Bunny Peter died at age 50
+Bunny Leo died at age 50
+Bunny Peter died at age 50
+Bunny Leo died at age 50
+Bunny James died at age 50
+Bunny Peter died at age 50
+Bunny Leo died at age 50
+Bunny James died at age 50
+Bunny Edward died at age 50
+Round 57
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 2
+Amount of bunnies at age 50: 4
+Amount of bunnies: 2
+Amount of females: 2 amount of males: 0 amount of GenderX: 0
+Amount of bunnies died: 4
+Amount of bunnies born: 0
+Amount of bunnies converted: 6
+Bunny Martin died at age 50
+Bunny Martin died at age 50
+Bunny Edward died at age 50
+Round 58
+Amount of bunnies at age 0: 0
+Amount of bunnies at age 1: 0
+Amount of bunnies at age 2: 0
+Amount of bunnies at age 3: 0
+Amount of bunnies at age 4: 0
+Amount of bunnies at age 5: 0
+Amount of bunnies at age 6: 0
+Amount of bunnies at age 7: 0
+Amount of bunnies at age 8: 0
+Amount of bunnies at age 9: 0
+Amount of bunnies at age 10: 0
+Amount of bunnies at age 11: 0
+Amount of bunnies at age 12: 0
+Amount of bunnies at age 13: 0
+Amount of bunnies at age 14: 0
+Amount of bunnies at age 15: 0
+Amount of bunnies at age 16: 0
+Amount of bunnies at age 17: 0
+Amount of bunnies at age 18: 0
+Amount of bunnies at age 19: 0
+Amount of bunnies at age 20: 0
+Amount of bunnies at age 21: 0
+Amount of bunnies at age 22: 0
+Amount of bunnies at age 23: 0
+Amount of bunnies at age 24: 0
+Amount of bunnies at age 25: 0
+Amount of bunnies at age 26: 0
+Amount of bunnies at age 27: 0
+Amount of bunnies at age 28: 0
+Amount of bunnies at age 29: 0
+Amount of bunnies at age 30: 0
+Amount of bunnies at age 31: 0
+Amount of bunnies at age 32: 0
+Amount of bunnies at age 33: 0
+Amount of bunnies at age 34: 0
+Amount of bunnies at age 35: 0
+Amount of bunnies at age 36: 0
+Amount of bunnies at age 37: 0
+Amount of bunnies at age 38: 0
+Amount of bunnies at age 39: 0
+Amount of bunnies at age 40: 0
+Amount of bunnies at age 41: 0
+Amount of bunnies at age 42: 0
+Amount of bunnies at age 43: 0
+Amount of bunnies at age 44: 0
+Amount of bunnies at age 45: 0
+Amount of bunnies at age 46: 0
+Amount of bunnies at age 47: 0
+Amount of bunnies at age 48: 0
+Amount of bunnies at age 49: 0
+Amount of bunnies at age 50: 2
+Amount of bunnies: 0
+Amount of females: 0 amount of males: 0 amount of GenderX: 0
+Amount of bunnies died: 2
+Amount of bunnies born: 0
+Amount of bunnies converted: 2

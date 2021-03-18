@@ -1,9 +1,10 @@
 #include "Driver.hh"
+#include "ReadNames.hh"
 #include <random>
 
 
-Driver::Driver(std::string gend, std::string col, bool isRMVB):
-gender(gend), color(col), radioactive_mutant_vampire_bunny(isRMVB)
+Driver::Driver(std::string gend, std::string col, std::string nam, bool isRMVB):
+gender(gend), color(col), name(nam), radioactive_mutant_vampire_bunny(isRMVB)
 {
 
   }
@@ -19,7 +20,7 @@ gender(gend), color(col), radioactive_mutant_vampire_bunny(isRMVB)
   }
 
   void Driver::generateGender(){
-    int  n = Driver::generateNumber();
+    int  n = generateNumber();
       if (n < 47){
         gender = "M";
       }
@@ -32,7 +33,7 @@ gender(gend), color(col), radioactive_mutant_vampire_bunny(isRMVB)
     }
 
     void Driver::generateColor(){
-      int n = Driver::generateNumber();
+      int n = generateNumber();
         if (n < 25){
           color = "White";
         }
@@ -48,11 +49,31 @@ gender(gend), color(col), radioactive_mutant_vampire_bunny(isRMVB)
       }
 
     void Driver::generateRMVB(){
-      int n = Driver::generateNumber();
+      int n = generateNumber();
         if (n < 3){
           radioactive_mutant_vampire_bunny = 1;
         }
         else {
           radioactive_mutant_vampire_bunny = 0;
         }
+      }
+
+      void Driver::generateName(){
+        int n = generateNumber();
+        ReadNames input;
+        input.read(n);
+        name = input.getName();
+      }
+
+      bool Driver::chooseBetween(){
+        int n = generateNumber();
+
+        // If 1, choose first bunny's color
+        if(n < 50){
+          return 1;
+        }
+
+        // If 0 choose second bunny's color
+        return 0;
+
       }
